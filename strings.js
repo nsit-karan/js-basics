@@ -30,3 +30,6 @@ console.log("AbcFh".toLowerCase());
 
 // iterate over all chars in a string
 iterateString("Hi whats up !!");
+
+// trim spaces in a string
+console.log("  hey guys, catch you later    ".trimStart().trimEnd());
