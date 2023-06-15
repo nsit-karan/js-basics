@@ -25,3 +25,12 @@ function timeoutCallback() {
  * setInterval which gets called repeatedly
  */
 setTimeout(timeoutCallback, 2500);
+
+/**
+ * clearTimeout cancels the timer set by setTimeout
+ * and the callback isn't invoked
+ */
+const timeoutId = setTimeout(timeoutCallback, 5500);
+clearTimeout(timeoutId);
+
+
