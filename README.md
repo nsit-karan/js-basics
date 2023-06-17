@@ -10,4 +10,6 @@ java script basics
   hog the cpu but block
 * compare js's async handling with what is there in java - enumerate the
   states possible in js/java and put some comparison text together for
-  understanding this better. 
+  understanding this better.
+* code up http server in java - spring boot based or otherwise
+* code up http server in java - from first principles - without using a framework perhaps
