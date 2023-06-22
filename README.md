@@ -13,3 +13,5 @@ java script basics
   understanding this better.
 * code up http server in java - spring boot based or otherwise
 * code up http server in java - from first principles - without using a framework perhaps
+* for a map, what happens when an element gets deleleted (say by key).
+  internal adjustments, complexity involved
